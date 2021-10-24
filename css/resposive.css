@@ -1,0 +1,275 @@
+@media (max-width:992px) {
+
+    /* hero section  */
+    h1 {
+        font-size: 22px;
+        letter-spacing: 1px;
+        font-weight: 500;
+        line-height: 37px;
+    }
+    .text-hero {
+        padding: 20px 0;
+    }
+    .text-hero p {
+        font-size: 15px;
+        letter-spacing: 1px;
+        padding-bottom: 0px;
+    }
+    .btn-custom-1 {
+        font-size: 12px;
+    }
+    .btn-custom-2 {
+        font-size: 12px;
+    }
+    .img-hero {
+        padding: 0;
+    }
+    .img-hero img {
+        max-width: 18rem;
+    }
+
+    /* our support section  */
+    .support-section {
+        padding: 70px 0;
+    }
+    h2 {
+        padding: 10px 0;
+        font-size: 25px;
+        letter-spacing: 1px;
+        line-height: 36px;
+        margin: 0;
+    }
+
+    .support-text i {
+        width: 40px;
+        margin: auto;
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+    .support-text strong {
+        font-size: 16px;
+    }
+    p {
+        font-size: 13px;
+    }
+
+    /* .work-section  */
+    .work-section {
+        padding: 50px 0;
+    }
+    .text-work strong {
+        font-size: 18px;
+    }
+    .text-work span {
+        background: #3f78e0;
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .text-work h5 {
+        font-size: 16px;
+    }
+    .img-work {
+        padding: 32px 0;
+    }
+
+    /* who section  */
+    .text-we {
+        padding: 0 ;
+    }
+
+    /* our team section  */
+    .card img{
+        width: 10rem !important;
+    }
+    .card {
+        align-items: center;
+    }
+    .our-team {
+        padding: 60px 0;
+    }
+
+    /* review section  */
+    .review-section {
+        padding: 60px 0;
+    }
+    .review-inner {
+        height: 340px;
+    }
+    .review-inner img {
+        max-width: 15rem;
+    }
+    .review p {
+        margin: 0 12px;
+        font-size: 13px;
+    }
+    .review {
+        top: 22%;
+        left: 45%;
+    }
+
+/* footer section  */
+    .submit-btn {
+        left: 40%;
+    }
+}
+
+
+
+
+@media (max-width:768px) {
+    .container{
+        text-align: center;
+    }
+    .hero-section {
+        padding: 10px 0;
+    }
+    h1 {
+        font-size: 15px;
+        line-height: 24px;
+        margin: 0;
+        padding: 10px 0;
+        text-align: start !important;
+    }
+    .text-hero p {
+        font-size: 13px;
+        letter-spacing: 1px;
+        padding-bottom: 10px;
+        text-align: start;
+        margin: 0;
+    }
+
+    /* top slider  */
+    .top-slider {
+        display: none;
+    }
+
+    h3 {
+        font-size: 12px;;
+    }
+    h2 {
+        padding: 5px 0;
+        font-size: 20px;
+        letter-spacing: 1px;
+        line-height: 31px;
+    }
+    .support-text strong {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+    .support-text p {
+        font-size: 13px;
+        width: 60%;
+        margin: auto;
+        padding-bottom: 10px;
+
+    }
+    .support-section {
+        padding: 50px 0;
+    }
+
+
+    /* work section  */
+    .img-work img {
+        max-width: 22rem;
+    }
+    .text-work h5 {
+        font-size: 15px;
+        width: 65%;
+        margin: auto;
+    }
+    .text-work strong {
+        font-size: 15px;
+        padding-left: 5px;
+        display: block;
+    }
+    p {
+        font-size: 13px;
+        width: 81%;
+        margin: 10px auto;
+        padding-left: 0 !important;
+    }
+    /* work-section*/
+    .img-we {
+        padding: 30px 0;
+    }
+    .img-we img{
+        width: 22rem !important;
+    }
+    .text-we p i {
+        background: #d0c2ef00;
+        display: block;
+    }
+    .text-we {
+        padding: 0;
+    }
+    .text-we p{
+        font-size: 13px;
+        width: 100%;
+        margin: 0;
+        padding-left: 0 !important;
+
+    }
+
+    /* review section   */
+    .review-section {
+        padding: 50px 0;
+    }
+    .review-inner img {
+        max-width: 10rem;
+    }
+    .review-inner {
+        height: 226px;
+    }
+    .review p {
+        margin: 0;
+        font-size: 10px;
+        line-height: 13px;
+        letter-spacing: 0;
+        width: 100%;
+    }
+    .review strong {
+        font-size: 12px;
+    }
+    .review {
+        top: 20%;
+        left: 35%;
+    }
+    footer ul{
+        justify-content: center;
+    }
+
+    .widget{
+    padding: 20px 0;
+
+    }
+    .notify-box{
+        justify-content: center;
+    }
+    .submit-btn {
+        left: 65%;
+    }
+
+}
+
+@media (max-width:576px) {
+    .hero-section {
+        padding:  0;
+    }
+    .text-hero p {
+        text-align: center !important;
+    }
+    .text-hero h1 {
+        text-align: center !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
