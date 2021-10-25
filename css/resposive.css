@@ -136,7 +136,6 @@
         letter-spacing: 1px;
         padding-bottom: 10px;
         text-align: start;
-        margin: 0;
     }
 
     /* top slider  */
@@ -194,7 +193,7 @@
         padding: 30px 0;
     }
     .img-we img{
-        width: 22rem !important;
+        width: 22rem ;
     }
     .text-we p i {
         background: #d0c2ef00;
